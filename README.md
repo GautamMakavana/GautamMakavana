@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+- https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 
 <!---
 GautamMakavana/GautamMakavana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
