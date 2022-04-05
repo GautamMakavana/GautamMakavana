@@ -20,14 +20,12 @@
     
  
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="">
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-  https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+
   
   
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 </div>
 <!---
 GautamMakavana/GautamMakavana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
